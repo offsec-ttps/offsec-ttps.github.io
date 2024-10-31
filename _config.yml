@@ -22,8 +22,11 @@ github_username: offsec-ttps
 minimal_mistakes_skin: default
 search: true
 
+
+url: https://offsec-ttps.github.io/
+
 # Build settings
-markdown: kramdown
+markdown: kramdown  
 #remote_theme: mmistakes/minimal-mistakes
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 #theme: minimal-mistakes-jekyll
