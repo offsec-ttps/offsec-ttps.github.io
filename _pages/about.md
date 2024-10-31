@@ -1,8 +1,14 @@
 ---
 permalink: /about/
 title: "About"
+
+tags:
+  - Operational Security
+  - Red Teaming
+  - Cyber Operation
+  - APT Researcher
+  - Security Researcher
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm a Cyber Security Researcher, having an expertise in Operational Security, Post Exploitation and managing security engagement with an offensive mindset. I will be covering the latest Red Teaming Offensive TTPS used in today's Cyber Warfare and different Cyber Operations used by Advanced Persistent Threat (APT) across the globe.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
