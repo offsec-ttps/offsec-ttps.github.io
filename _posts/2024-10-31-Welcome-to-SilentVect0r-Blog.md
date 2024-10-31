@@ -16,7 +16,7 @@ tags:
   - Security Researcher
 ---
 
-Welcome to all the `Cyber Actors` and `Actresses` out there! Whether you are a `Beginner`, `Intermediate`, or `Experienced` professional, this blog is here to provide valuable insights for every group of cybersecurity personnel.
+Welcome to all the `Cyber Actors` and `Actresses` out there! Whether you are a `Beginner`, `Intermediate`, or `Experienced` professional, this blog is here to provide valuable insights for every group of cybersecurity Professionals.
 
 **Firstly**, I will take you on a journey through the history of cybersecurity and its connection to cyber warfare. You will gain insights into how, when, and why cyberspace became recognized as the fifth domain of warfare. We will explore the evolution of lethal warfare into non-kinetic warfare through the influence of ```APT (Advanced Persistent Threats)```, the story behind this transformation, and how their objectives have changed over time. This evolution has positioned APT as a key factor in cyber warfare, particularly during the moments when it came into the spotlight.
 {: .notice--primary}
@@ -56,7 +56,7 @@ Welcome to all the `Cyber Actors` and `Actresses` out there! Whether you are a `
 * This project is not funded or supported by any organization.
 * We will take you into the depths of the Cyber Kill Chain model, adversarial simulation, and emulation, along with the mindset behind APTs.
 * All research is designed with significant effort, personal investigation over several months, and by collecting a wealth of open-source research and offensive resources available on the internet.
-* This blog and course content are designed to help security personnel gain a better understanding by providing a mindset and perspective to think like a red teamer in order to defend organizational assets and businesses (offense is the best defense).
+* This blog and course content are designed to help security Professionals gain a better understanding by providing a mindset and perspective to think like a red teamer in order to defend organizational assets and businesses (offense is the best defense).
 * The content and information shared on this platform are derived from publicly available data and reports, with the sole purpose of sharing knowledge with the community and making the cyber world a safer place.
 * We offer tutoring, consulting, guidance, support, and resources for the betterment and growth of the security community and professionals.
 {% endcapture %}
