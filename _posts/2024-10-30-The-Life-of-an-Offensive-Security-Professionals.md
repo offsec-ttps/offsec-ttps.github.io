@@ -1,5 +1,5 @@
 ---
-title: "The Life of an Offensive Security personnel!"
+title: "The Life of an Offensive Security Professionals!"
 categories:
   - Blog
 tags:
@@ -15,7 +15,7 @@ This blog post will take you through the personal lives of cybersecurity profess
 Each section will reveal the truths behind the screens, offering insights into the unique challenges and experiences faced by these experts as they navigate the complex and often high-stakes world of cybersecurity. Discover the realities of their daily lives, the strategies they employ, and the passion that drives them to protect our digital landscapes.
 
 ```yaml
-Keep an eye on this blog release!
+Keep an eye out for this blog release!
 ```
 
 This blog post will be updated soon ...
