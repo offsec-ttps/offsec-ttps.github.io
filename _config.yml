@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: A Non-Kinetic Cyber warfare Operations.
-url: https://offsec-ttps.github.io/
+url: https://offsec-ttps.github.io
 email:
 description: >- # this means to ignore newlines until "baseurl:"
     An Another Place of cyber offensive and Defensive arsenal toolkit and their experiences of usinng in Cyber Ops.
@@ -116,3 +116,11 @@ tag_archive:
   type: liquid
   path: /tags/
 email:
+
+
+# Analytics
+analytics:
+  provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-SZDSCBGKHZ"
+    anonymize_ip         : false #(default)
