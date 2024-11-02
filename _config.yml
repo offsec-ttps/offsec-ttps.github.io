@@ -120,7 +120,7 @@ email:
 
 # Analytics
 analytics:
-  provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag"
   google:
     tracking_id          : "G-SZDSCBGKHZ"
     anonymize_ip         : false #(default)
